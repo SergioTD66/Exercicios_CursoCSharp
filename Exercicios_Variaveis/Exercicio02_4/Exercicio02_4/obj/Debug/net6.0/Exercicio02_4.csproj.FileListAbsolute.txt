@@ -1,0 +1,15 @@
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\bin\Debug\net6.0\Exercicio02_4.exe
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\bin\Debug\net6.0\Exercicio02_4.deps.json
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\bin\Debug\net6.0\Exercicio02_4.runtimeconfig.json
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\bin\Debug\net6.0\Exercicio02_4.dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\bin\Debug\net6.0\Exercicio02_4.pdb
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.csproj.AssemblyReference.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.AssemblyInfoInputs.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.AssemblyInfo.cs
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\refint\Exercicio02_4.dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.pdb
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\Exercicio02_4.genruntimeconfig.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicios_Variaveis\Exercicio02_4\Exercicio02_4\obj\Debug\net6.0\ref\Exercicio02_4.dll

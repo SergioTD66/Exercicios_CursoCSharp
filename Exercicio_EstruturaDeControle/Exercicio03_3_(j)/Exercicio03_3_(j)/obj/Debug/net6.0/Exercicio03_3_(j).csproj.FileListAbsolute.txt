@@ -1,0 +1,15 @@
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\bin\Debug\net6.0\Exercicio03_3_(j).exe
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\bin\Debug\net6.0\Exercicio03_3_(j).deps.json
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\bin\Debug\net6.0\Exercicio03_3_(j).runtimeconfig.json
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\bin\Debug\net6.0\Exercicio03_3_(j).dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\bin\Debug\net6.0\Exercicio03_3_(j).pdb
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).csproj.AssemblyReference.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).AssemblyInfoInputs.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).AssemblyInfo.cs
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).csproj.CoreCompileInputs.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\refint\Exercicio03_3_(j).dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).pdb
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\Exercicio03_3_(j).genruntimeconfig.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\Meus_repositorios\Lista_de_exercicios\Exercicio_EstruturaDeControle\Exercicio03_3_(j)\Exercicio03_3_(j)\obj\Debug\net6.0\ref\Exercicio03_3_(j).dll
